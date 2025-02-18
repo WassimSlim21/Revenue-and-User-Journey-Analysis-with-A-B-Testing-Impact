@@ -99,3 +99,7 @@ Built using Microsoft Power BI with:
 ![alt text](https://github.com/WassimSlim21/Revenue-and-User-Journey-Analysis-with-A-B-Testing-Impact/blob/master/reprots%20screen%20shots/CA-steps%201.png)
 
 ![alt text](https://github.com/WassimSlim21/Revenue-and-User-Journey-Analysis-with-A-B-Testing-Impact/blob/master/reprots%20screen%20shots/CA-steps%202.png)
+
+### Documentation 
+
+![alt text](https://github.com/WassimSlim21/Revenue-and-User-Journey-Analysis-with-A-B-Testing-Impact/blob/master/reprots%20screen%20shots/Documentation.png)
