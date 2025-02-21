@@ -68,19 +68,6 @@ Built using Microsoft Power BI with:
 - DAX measures for statistical calculations
 - Custom visuals for enhanced analysis
 - Dynamic filtering for interactive exploration
-- Automated data refresh capabilities
-
-## Getting Started
-1. Open the Power BI file using Power BI Desktop or access via Power BI Service
-2. Use the slicers to filter data based on your analysis needs
-3. Navigate between pages using the tabs at the bottom
-4. Hover over visualizations for detailed tooltips
-
-## Future Enhancements
-- Integration with predictive models for revenue forecasting
-- Automated anomaly detection for conversion rates
-- User cohort analysis capabilities
-- Mobile-optimized view for on-the-go analysis
 
 ## Reports : 
 ### Revenue and User Journey Analysis
